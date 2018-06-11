@@ -11,9 +11,9 @@ main_page_content='''
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Portfolio">
-		<meta name="author" content="Sanjit Singh Chouhan">
+		<meta name="author" content="Sai Bhavani Kumarn">
 
-		<title>Sanjit Singh Chouhan : Projects</title>
+		<title>Sai Bhavani Kumar : Projects</title>
 
 		<!-- Bootstrap Core CSS -->
 		<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +44,7 @@ main_page_content='''
 		<div class="container-fluid">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
-				<a class="navbar-brand page-scroll" href="index.html">Sanjit Singh Chouhan</a>
+				<a class="navbar-brand page-scroll" href="index.html">Sai Bhavani Kumarn</a>
 			</div>
 
 		</div>
