@@ -155,9 +155,10 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/image.jpg');
+  background-image: url('../img/image.jpeg');
   text-align: center;
   color: white;
+  background-attachment: fixed;
 }
 header .header-content {
   position: relative;
